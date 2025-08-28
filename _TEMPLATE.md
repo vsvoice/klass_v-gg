@@ -1,7 +1,7 @@
-# [Github konto namn]
+# [vsvoice]
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+**Min favorit teknologi:** LED-lampan
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+**Mitt mål med kursen:** Utöka mina programmeringskunskaper och allmäna kompetenser i programutveckling
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+**Ett rolig faktum:** Näbbdjur har en giftig gadd på kroppen
