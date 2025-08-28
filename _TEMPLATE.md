@@ -1,6 +1,6 @@
 # [vsvoice]
 
-**Min favorit teknologi:** LED-lampan
+**Min favoritteknologi:** LED-lampan
 
 **Mitt mål med kursen:** Utöka mina programmeringskunskaper och allmäna kompetenser i programutveckling
 
